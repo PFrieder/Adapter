@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Adapter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles">
+        <item>Meme 1</item>
+        <item>Meme 2</item>
+        <item>Meme 3</item>
+        <item>Meme 4</item>
+        <item>Meme 5</item>
+        <item>Meme 6</item>
+        <item>Meme 7</item>
+        <item>Meme 8</item>
+        <item>Meme 9</item>
+        <item>Meme 10</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>This is meme description 1</item>
+        <item>This is meme description 2</item>
+        <item>This is meme description 3</item>
+        <item>This is meme description 4</item>
+        <item>This is meme description 5</item>
+        <item>This is meme description 6</item>
+        <item>This is meme description 7</item>
+        <item>This is meme description 8</item>
+        <item>This is meme description 9</item>
+        <item>This is meme description 10</item>
+
+    </string-array>
+</resources>
